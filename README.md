@@ -1,4 +1,5 @@
 # threejsTest
+![image](https://github.com/seonghyeonOrNot/threejsTest/assets/37067531/828be99d-168b-4c72-89b0-3f91f357d49f)
 
 #### 프로젝트 개요
 이 프로젝트는 React와 Three.js를 사용하여 웹 페이지에 3D 콘텐츠를 표시하는 방법을 보여줍니다. 기본적으로 GLTF 형식의 3D 모델(`desk.glb`)을 로드하고, 사용자가 상호작용할 수 있는 간단한 3D 씬을 생성합니다.
